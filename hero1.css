@@ -3,7 +3,7 @@ body{
 	background-color:orange;
 	font-family:'Turret Road', cursive,'Kalam', cursive;
 	margin:0px;
-	font-size: 125%;
+	font-size: 25px;
 	line-height: 10px;
 }
 
@@ -81,7 +81,7 @@ p.caption{
 	font-style: italic;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 25px
+    font-size: 30px
 }
 
 video{
