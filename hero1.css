@@ -1,10 +1,10 @@
 body{
 	text-align: justify;
 	background-color:orange;
-	font-family:'Turret Road', cursive,'Kalam', cursive;
+	font-family:Josefin Sans', sans-serif;
 	margin:0px;
 	font-size: 30px;
-	line-height: 15px;
+	line-height: 20px;
 }
 
 header{
@@ -79,9 +79,9 @@ p{
 p.caption{
 	color:white;
 	font-style: italic;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-size: 30px
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 30px
 }
 
 video{
