@@ -1,17 +1,17 @@
 body{
-	margin-bottom: 40px;
-	margin-top: 0px;
-	margin-left: 40px;
-	margin-right: 40px;
-	font-family: candara, arial; 
 	text-align: justify;
+	background-color:orange;
+	font-family:'Kalam', cursive;
+	margin:50px;
 }
+	
 
 header{
-	background-color: #d66210de;
+	background-color:orange;
 	text-align: center;
-	padding: 60px;
+	padding: 10px;
 	font-family: chalkduster, markerfelt, monospace, rockwell;
+
 }
 
 header h1{
@@ -20,13 +20,49 @@ header h1{
 
 
 header img{
-	border-radius: 15px;
+	border-radius: 200px;
 	width:300px;
 	border:15px solid #ffa500d9;
 	size:auto
 }
 
 main{
-	max-width: 500px;
-	padding: 200px;
+	padding:60 0px;
+}
+
+main img{
+	max-width: 800px;
+
+}
+
+h2{
+	font-size:20px;
+	text-align: center;
+	color:red;
+}
+
+a{
+	color:yellow;
+}
+
+a:hover{
+	color:white;
+}
+
+footer{background-color: black;
+	color:white;
+}
+
+p{
+	font-weight: bold;
+}
+
+p.caption{
+	color:white;
+	font-style: italic;
+	margin-top: 0px;
+}
+
+video{
+	max-width: 800px;
 }
