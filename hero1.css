@@ -2,20 +2,22 @@ body{
 	text-align: justify;
 	background-color:orange;
 	font-family:'Kalam', cursive;
-	margin:50px;
+	margin:0px;
+	font-size: 23px;
+	line-height: 25px;
+
 }
-	
 
 header{
-	background-color:orange;
+	background-color:#000000;
 	text-align: center;
 	padding: 10px;
 	font-family: chalkduster, markerfelt, monospace, rockwell;
-
 }
 
 header h1{
     color:#d40000;
+    font-size: 30px;
 }
 
 
@@ -24,34 +26,53 @@ header img{
 	width:300px;
 	border:15px solid #ffa500d9;
 	size:auto
-}
-
-main{
-	padding:60 0px;
+	margin-top:0px;
+	padding-top: 25px;
 }
 
 main img{
 	max-width: 800px;
+	margin: auto;
 
+}
+
+main{
+	max-width: 800px;
+	margin:auto;
+	padding: 50px;
 }
 
 h2{
-	font-size:20px;
+	font-size:25px;
 	text-align: center;
 	color:red;
+	font-family: 'Balsamiq Sans', cursive;
 }
 
 a{
-	color:yellow;
+	color:blue;
+	font-size: 15px;
 }
 
 a:hover{
 	color:white;
+	background-color: red;
 }
 
-footer{background-color: black;
+footer{background-color:#121116;
 	color:white;
+	font-family: calibri;
+	padding: 0px;
+	text-align: center
 }
+
+footer img{
+	border-radius: 300px;
+	max-width: 270px;
+	max-height: 80px;
+	float: left;
+}
+
 
 p{
 	font-weight: bold;
@@ -60,9 +81,13 @@ p{
 p.caption{
 	color:white;
 	font-style: italic;
-	margin-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px
 }
 
 video{
 	max-width: 800px;
 }
+
+
