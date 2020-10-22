@@ -3,9 +3,8 @@ body{
 	background-color:orange;
 	font-family:'Turret Road', cursive,'Kalam', cursive;
 	margin:0px;
-	font-size: 30pxpx;
+	font-size: 125%;
 	line-height: 10px;
-
 }
 
 header{
@@ -33,7 +32,6 @@ header img{
 main img{
 	max-width: 800px;
 	margin: auto;
-
 }
 
 main{
@@ -83,7 +81,7 @@ p.caption{
 	font-style: italic;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 15px
+    font-size: 25px
 }
 
 video{
