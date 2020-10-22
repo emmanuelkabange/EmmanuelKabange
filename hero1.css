@@ -1,0 +1,32 @@
+body{
+	margin-bottom: 40px;
+	margin-top: 0px;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-family: candara, arial; 
+	text-align: justify;
+}
+
+header{
+	background-color: #d66210de;
+	text-align: center;
+	padding: 60px;
+	font-family: chalkduster, markerfelt, monospace, rockwell;
+}
+
+header h1{
+    color:#d40000;
+}
+
+
+header img{
+	border-radius: 15px;
+	width:300px;
+	border:15px solid #ffa500d9;
+	size:auto
+}
+
+main{
+	max-width: 500px;
+	padding: 200px;
+}
