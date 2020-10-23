@@ -3,7 +3,7 @@ body{
 	background-color:orange;
 	font-family:'Kalam', cursive;
 	margin:0px;
-	font-size: 23px;
+	font-size: 27px;
 	line-height: 25px;
 
 }
@@ -43,7 +43,7 @@ main{
 }
 
 h2{
-	font-size:25px;
+	font-size:30px;
 	text-align: center;
 	color:red;
 	font-family: 'Balsamiq Sans', cursive;
@@ -83,7 +83,7 @@ p.caption{
 	font-style: italic;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 15px
+    font-size: 25px;
 }
 
 video{
