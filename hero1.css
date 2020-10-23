@@ -1,7 +1,7 @@
 body{
 	text-align: justify;
 	background-color:orange;
-	font-family: calibri;
+	font-family: 'Syne Mono', monospace;
 	margin:0px;
 	font-size: 15px;
 	line-height: 5px;
@@ -82,9 +82,9 @@ p{
 p.caption{
 	color:white;
 	font-family:calibri;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    font-size: 33px
+    margin-top: 1px;
+    margin-bottom: 1px;
+    font-size: 28px
 }
 
 video{
