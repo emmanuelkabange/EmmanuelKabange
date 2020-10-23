@@ -1,11 +1,11 @@
 body{
 	text-align: justify;
 	background-color:orange;
-	font-family: 'Vampiro One';
+	font-family: calibri;
 	margin:0px;
-	font-size: 40px;
-	line-height: 25px;
-
+	font-size: 25px;
+	line-height: 15px;
+        font-style:italic;
 }
 
 header{
